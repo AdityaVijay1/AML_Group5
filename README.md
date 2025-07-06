@@ -1,7 +1,7 @@
 # Important Note
 Certain file's outputs can only be seen once downloaded and viewed on the IDE <br>
 Dataset: https://challenge.isic-archive.com/data/#2020 <br>
-Models are saved here:  https://drive.google.com/drive/folders/1rrRTIrI0sHaR4334fQK8tim-0rIQSgT4?usp=sharing
+Models are saved here:  https://drive.google.com/drive/folders/1LXZ5jvgjCgr-6lcA2s5ViIp-jJLsecr4?usp=sharing
 
 # EfficientNet B0 Model Training Experiments for Skin Lesion Classification
 
