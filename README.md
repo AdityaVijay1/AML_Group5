@@ -1,3 +1,6 @@
+# Important Note
+Certain file's outputs can only be seen once downloaded and viewed on the IDE
+
 # EfficientNet B0 Model Training Experiments for Skin Lesion Classification
 
 This repository contains comprehensive experiments with EfficientNet B0 model for skin lesion classification, focusing on training time performance, evaluation metrics, skin tone generalizations, and data augmentation techniques.
